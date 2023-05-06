@@ -1,0 +1,8 @@
+book_id,source_file_path,author,title,n_tokens,n_chapters,n_sentences,label,genre
+Sorcerer's Stone,hp1.txt,JK Rowling,Sorcerer's Stone,79970,17,8100,hp1,nonfiction
+Chamber of Secrets,hp2.txt,JK Rowling,Chamber of Secrets,89647,18,7330,hp2,nonfiction
+Prisoner of Azkaban,hp3.txt,JK Rowling,Prisoner of Azkaban,107506,22,11683,hp3,nonfiction
+Goblet of Fire,hp4.txt,JK Rowling,Goblet of Fire,198594,37,20095,hp4,nonfiction
+Order of the Phoenix,hp5.txt,JK Rowling,Order of the Phoenix,263251,38,25729,hp5,nonfiction
+Half-Blood Prince,hp6.txt,JK Rowling,Half-Blood Prince,185082,30,16815,hp6,nonfiction
+Deathly Hallows,hp7.txt,JK Rowling,Deathly Hallows,203899,37,19841,hp7,nonfiction
